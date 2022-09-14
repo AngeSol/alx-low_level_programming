@@ -2,7 +2,7 @@
 /**
  * main - print if the number is positive, zero, or negative
  *
- * Description
+ * Description: using the main function
  * This program prints
  * Return : 0
  */
