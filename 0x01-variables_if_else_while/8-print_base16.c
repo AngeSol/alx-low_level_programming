@@ -4,7 +4,7 @@
  *
  * Description: using the main function
  * this program prints
- * Return: 
+ * Return: 0 
  */
 int main(void)
 {
