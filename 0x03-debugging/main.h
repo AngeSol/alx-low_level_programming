@@ -5,4 +5,4 @@
 
 void positive_or_negative(int i);
 
-#endif /* MIN_H */ 
+#endif
