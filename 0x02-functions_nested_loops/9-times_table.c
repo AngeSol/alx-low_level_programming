@@ -4,7 +4,7 @@
  * rm = row, col = column, d = digits
  * Return: Always success
  */
-void times_tables(void)
+void times_table(void)
 {
 	int rw, col, d;
 	for (rw = 0; rw <= 9; rw++)
