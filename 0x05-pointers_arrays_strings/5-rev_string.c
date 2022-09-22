@@ -3,7 +3,6 @@
 /*
  * rev_string - Reserves a string
  * @s: The string to be modified
- *
  * Return: void
  */
 void rev_string(char *s)
