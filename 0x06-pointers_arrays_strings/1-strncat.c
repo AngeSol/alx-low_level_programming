@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * strncat - concatenate two strings
+ * _strncat - concatenate two strings
  * @dest: destination value
  * @src: source value
  * @n: integer parameter to compare index to
