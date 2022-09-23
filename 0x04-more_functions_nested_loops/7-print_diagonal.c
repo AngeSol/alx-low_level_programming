@@ -3,6 +3,7 @@
 /**
  * print_diagonal - prints a diagonal
  * @n: parameter
+ *
  * Retun: returns nothing
  */
 
