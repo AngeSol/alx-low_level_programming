@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * lett - encodes a string into 1337
+ * leet - encodes a string into 1337
  * @s: string to encode
  *
  * Return: adress od s
  */
-char *lett(chr *s)
+char *leet(chr *s)
 {
 	int i, j;
 	char a[] = "aAeEoOtTlL";
