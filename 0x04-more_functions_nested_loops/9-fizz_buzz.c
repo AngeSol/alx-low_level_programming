@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * fizz_buzz -> Prints a fizz buzz program
+ * main -> Prints a fizz buzz program
  *
  * Return: Always 0 (Success)
  */
 
-void fizz_buzz(void)
+int main(void)
 {
 	int x;
 
