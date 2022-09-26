@@ -3,7 +3,7 @@
 /**
  * _memset -> this memory set function
  * @s: string
- * b: an integer
+ * @b: an integer
  * @n: an integer
  * Return: a string
  */
