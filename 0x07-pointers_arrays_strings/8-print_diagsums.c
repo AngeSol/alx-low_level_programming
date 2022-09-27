@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * prints_diagrams - ENtry point
+ * print_diagsums - Entry point
  * @a: input
  * @size: input
  * Return: Always 0
