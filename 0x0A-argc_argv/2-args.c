@@ -6,10 +6,10 @@
  * @argc: Count argument
  * @argv: Arguments
  *
- * Return: Always 
+ * Return: Always 0
  */
 
-int main(int argc, car *argv[])
+int main(int argc, char *argv[])
 {
 	int count = 0;
 
