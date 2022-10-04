@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * create-array - array for print
+ * create_array - array for print
  * @size: number
  * @c: char
  * Return: pointer
