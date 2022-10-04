@@ -8,6 +8,7 @@
 int _strlen(char *s)
 {
 	unsigned int i;
+
 	i = 0;
 
 	while (s[i] != '\0')
@@ -49,20 +50,21 @@ char *_strdup(char *str)
 {
 	char *dst;
 	unsigned int size;
-	
+
 	if (str == 0)
 	{
 		return (NULL);
 	}
-	
+
 	size = _strlen(str) + 1;
-	
-	dst = (char *) malloc(sizeof(char));
-	
+
+	dst = (char *) malloc(size * sizeof(char));
+
 	if (dst == 0)
 	{
 		return (NULL);
 	}
-	_strcpy(dest, str);
-	return (dest);
-}_
+
+	_strcpy(dst, str);
+	return (dst);
+}
