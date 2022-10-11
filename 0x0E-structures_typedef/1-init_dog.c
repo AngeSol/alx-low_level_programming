@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * nit_dog - initializes a variable
+ * init_dog - initializes a variable
  * @d: The dog
  * @name: The name of the dog
  * @age: The ae of the dog
