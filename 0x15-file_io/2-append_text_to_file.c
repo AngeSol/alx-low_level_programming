@@ -3,7 +3,7 @@
 /**
  * append_text_to_file - Appends text at the end
  * @filename: A pointer
- * @text_contet: The string
+ * @text_content: The string
  *
  * Return: If the functions works correctly
  */
